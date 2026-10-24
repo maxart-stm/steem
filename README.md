@@ -1,11 +1,11 @@
 [README.md](https://github.com/user-attachments/files/33908657/README.md)
 # Steem Wallet
 
-**Steem Wallet** is an independent, browser-based wallet for the [Steem blockchain](https://steem.com/). It provides a simple interface for viewing account information and managing STEEM, SBD and STEEM POWER (SP).
+**Steem Wallet** is an independent, browser-based wallet for the Steem blockchain. It provides a simple interface for viewing account information and managing STEEM, SBD and STEEM POWER (SP).
 
 The wallet opens an account in **read-only mode using only a Steem username**. No private key is required to check balances, delegations, rewards or transaction history. When you decide to perform a transaction, the wallet asks for your **Active Private Key (WIF)** specifically for that operation.
 
-The project was initiated by **[@MaxArt](https://steemit.com/@maxart)** and developed with AI assistance. It is not an official Steemit product and is not affiliated with Steemit or other Steem ecosystem services.
+The project was initiated by @MaxArt and developed with AI assistance. It is not an official Steemit product and is not affiliated with Steemit or other Steem ecosystem services.
 
 ## Features
 
